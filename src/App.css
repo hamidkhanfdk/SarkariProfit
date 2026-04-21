@@ -1,0 +1,42 @@
+.hero-section {
+  background: linear-gradient(135deg, #0d6efd, #4dabf7);
+  min-height: 400px;
+  padding: 50px 0;
+}
+
+.category-card {
+  padding: 20px;
+  color: white;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.category-card:hover {
+  transform: scale(1.05);
+}
+
+body {
+  background-color: #f5f7fb;
+}
+
+.card {
+  border-radius: 10px;
+}
+
+
+.navbar-custom {
+  background: white;
+  padding: 15px 0;
+}
+
+.nav-link-custom {
+  text-decoration: none;
+  font-weight: 500;
+  color: black;
+}
+
+.nav-link-custom:hover {
+  color: #0d6efd;
+}
